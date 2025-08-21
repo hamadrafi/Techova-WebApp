@@ -1,4 +1,4 @@
-# 📸 Techova Smart Camera App
+# 📸 Techova WebApp
 
 ## ✨ Overview  
 Techova Smart Camera website built with **HTML, CSS, JavaScript, and Bootstrap 5**.  
