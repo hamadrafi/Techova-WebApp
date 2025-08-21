@@ -5,7 +5,7 @@ Techova Smart Camera website built with **HTML, CSS, JavaScript, and Bootstrap 5
 It features a modern, responsive design with **dark mode**, **scroll animations**, and **SEO schema integration (Product + FAQ)**.  
 
 ---
-
+```
 ## 📁 Project Structure  
 Tech Product/
 ├── index.html # Main entry point (HTML structure)
@@ -22,6 +22,7 @@ Tech Product/
 │ └── ...
 ├── fonts/ # Font Awesome or custom fonts
 └── vendor/ # Third-party libraries (Bootstrap, etc.)
+```
 ---
 
 ## 🏗 Features  
